@@ -12,6 +12,7 @@ export default function Home() {
 
       <main>
         <Header title="Welcome to my app!" />
+        <a href ="https://drive.google.com/drive/folders/19sye3JNAEf9hTSJaMDnV6ZMHHAv-M5tv?usp=sharing">sem 6</a>
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
